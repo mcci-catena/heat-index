@@ -14,6 +14,8 @@ This repository has a grab-bag of calculators for the [Heat Index](https://www.w
 
 <!-- /TOC -->
 
+[![GitHub release](https://img.shields.io/github/release/mcci-catena/heat-index.svg)](https://github.com/mcci-catena/heat-index/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/heat-index/latest.svg)](https://github.com/mcci-catena/heat-index/compare/v1.0.0...master)
+
 ## Background Material
 
 As background info, we include [Lans Rothfusz' 1990 paper](ta_htindx.pdf) that defines the calculations we use (and gives background). We also include a [reference PDF](NWS-Heat-Index-Equation-20180923.pdf) of the NWS Heat Index Equation page from 2018-09-23, which defines additional corrections and refinements.
