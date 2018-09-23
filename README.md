@@ -1,5 +1,7 @@
 # NWS Heat Index Calculations
 
+![Heat-Image Chart](assets/excel-heat-image-chart.png)
+
 This repository has a grab-bag of calculators for the [Heat Index](https://www.weather.gov/safety/heat-index) as defined by the US National Weather Service. There's nothing unique here, except perhaps that the code is intended to be used as library functions in other programs.
 
 <!-- TOC depthFrom:2 updateOnSave:true -->
