@@ -14,7 +14,7 @@ This repository has a grab-bag of calculators and reference data for the [Heat I
 
 <!-- /TOC -->
 
-[![GitHub release](https://img.shields.io/github/release/mcci-catena/heat-index.svg)](https://github.com/mcci-catena/heat-index/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/heat-index/latest.svg)](https://github.com/mcci-catena/heat-index/compare/v1.0.0...master)
+[![GitHub release](https://img.shields.io/github/release/mcci-catena/heat-index.svg)](https://github.com/mcci-catena/heat-index/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/heat-index/latest.svg)](https://github.com/mcci-catena/heat-index/compare/v1.0.1...master)
 
 ## Background Material
 
